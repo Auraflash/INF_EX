@@ -3,7 +3,7 @@
 	Contact: infiSTAR23@gmail.com
 	#1083
 	
-	nicomoolies@gmail.com
+	email@address.domain
 	
 	You should be able to download the latest update(s) on https://update.infistar.de/
 	Do not ask me how to get a key, read on that page and you will know.
@@ -11,7 +11,7 @@
 	read more at the very bottom!
 */
 /* *******************Developer : infiSTAR (infiSTAR23@gmail.com)******************* */
-/* **************infiSTAR Copyright®© 2011 - 2016 All rights reserved.************** */
+/* **************infiSTAR CopyrightÂ®Â© 2011 - 2016 All rights reserved.************** */
 /* *********************************www.infiSTAR.de********************************* */
 ==================================================================================================================
 IMPORTANT - DLLs:
@@ -157,5 +157,5 @@ Thanks for your attention.
 P.S.
 Thanks to those, who help(ed) me testing new features, bugs or sending in Hacks to check against them :)
 /* *******************Developer : infiSTAR (infiSTAR23@gmail.com)******************* */
-/* **************infiSTAR Copyright®© 2011 - 2016 All rights reserved.************** */
+/* **************infiSTAR CopyrightÂ®Â© 2011 - 2016 All rights reserved.************** */
 /* *********************************www.infiSTAR.de********************************* */
